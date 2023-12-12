@@ -1,0 +1,1 @@
+System.out.println("Adoption Fee: $" + ((Cat) animal).calculateAdoptionFee());
